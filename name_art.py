@@ -7,5 +7,6 @@ def name_art():
     art = text2art(name)
     print(art)
     
-# Run the proframme
+# Run the programme
+
 name_art()
